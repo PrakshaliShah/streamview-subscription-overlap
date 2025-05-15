@@ -1,7 +1,7 @@
 # 📊 StreamView: Subscription Overlap & Churn Analysis
 
 ## 📌 Overview
-An Excel-based dashboard analyzing how streaming subscriptions overlap across Hulu, Disney+, Netflix, and Amazon Prime. The goal is to identify cross-platform usage and churn patterns among subscribers.
+An Excel-based model analyzing how streaming subscriptions overlap across Hulu, Disney+, Netflix, and Amazon Prime. The goal is to identify cross-platform usage and churn patterns among subscribers.
 
 ---
 
@@ -33,18 +33,18 @@ An Excel-based dashboard analyzing how streaming subscriptions overlap across Hu
 ---
 
 ## 📁 Files
-- `StreamView_SubscriptionOverlap_Dashboard.xlsx`
+- `StreamView_SubscriptionOverlap_Model.xlsx`
 
 ---
 
 ## 🔗 View File  
-[📂 Click here to open the Excel dashboard](https://github.com/prakshalishah/streamview-subscription-overlap/blob/main/StreamView_SubscriptionOverlap_Dashboard.xlsx)
+[📂 Click here to open the Excel Model](https://github.com/prakshalishah/streamview-subscription-overlap/blob/main/StreamView_SubscriptionOverlap_Model.xlsx)
 
 ---
 
 ## 📷 Preview
 
-![Dashboard Preview](preview.png)
+![Model Preview](preview.png)
 
 ---
 

@@ -10,18 +10,18 @@ An Excel-based dashboard analyzing how streaming subscriptions overlap across Hu
 - Pivot Tables
 - Conditional Formatting
 - Venn Diagram (Illustrative)
-- Summary Formula Logic
+- IF & Summary Formula Logic
 
 ---
 
 ## 📊 Key Features
-- City-level overlap distribution by platform
-- Segmented logic for single/multi-subscription behavior
-- Visualized churn logic based on platform overlap
-- Clear summary interpretation of key overlap insights
+- Platform-level subscription overlap distribution
+- Classification of user types: single, dual, and multi-service subscribers
+- Visual Venn diagram illustrating overlap combinations
+- Percentage-based insights on subscriber relationships
+- Clean and minimal layout for decision-making
 
 ---
-
 
 ## 📝 Insights
 - **Netflix is the dominant platform**, with 67% of users subscribing only to it and serving as the top overlap platform across others.

@@ -41,7 +41,3 @@ An Excel-based model analyzing how streaming subscriptions overlap across Hulu, 
 ## 📷 Preview
 
 ![Model Preview](preview.png)
-
----
-
-📫 [Connect with me on LinkedIn](https://linkedin.com/in/prakshalishah)

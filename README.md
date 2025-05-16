@@ -30,10 +30,6 @@ An Excel-based model analyzing how streaming subscriptions overlap across Hulu, 
 - **Amazon Prime has the strongest reciprocal overlap with Netflix (53.7%)**, suggesting bundled behavior or Prime loyalty.
 - **Very few users (0.4%) subscribe to all four services**, indicating high competition for wallet share in multi-subscription scenarios.
 
----
-
-## 📁 Files
-- `StreamView_SubscriptionOverlap_Model.xlsx`
 
 ---
 
